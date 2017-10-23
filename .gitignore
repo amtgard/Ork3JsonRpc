@@ -1,0 +1,9 @@
+.vs/
+desktop.ini
+packages/
+TestOrk3JsonRpc/bin/Debug/Microsoft.Web.Infrastructure.dll
+Ork3JsonRpc/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Ork3JsonRpc/obj/
+TestOrk3JsonRpc/obj/
+Ork3JsonRpc/bin/Debug/
+TestOrk3JsonRpc/bin/Debug/
